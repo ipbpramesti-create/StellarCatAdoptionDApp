@@ -45,6 +45,7 @@ We envision a future where animal rescue operations are globally connected, high
 ---
 
 ## Contract Details & API Reference
+- Contract Address: CA24RASJZABIOXRVTQO2SZC3ITRHW3Z2OSZ3UU7SVJJIE2KJY2LCGDOO
 
 ### Data Structures
 
